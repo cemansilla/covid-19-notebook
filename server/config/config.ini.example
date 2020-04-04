@@ -1,0 +1,5 @@
+[MongodbAtlas]
+host = [mongodb_host]
+name = [mongodb_name]
+user = [mongodb_user]
+pass = [mongodb_pass]

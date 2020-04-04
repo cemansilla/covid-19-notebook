@@ -1,1 +1,12 @@
+# Config
 .vscode
+config.ini
+
+# Python stuff
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+server/data/**/*.xlsx
