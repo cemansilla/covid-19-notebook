@@ -1,4 +1,15 @@
 [{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 35,
+    "deaths": 1,
+    "countries_territories": "Afghanistan",
+    "geoid": "AF",
+    "country_code": "AFG",
+    "pop_data_2018": 37172386.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -945,6 +956,17 @@
     "country_code": "AFG",
     "pop_data_2018": 37172386.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 29,
+    "deaths": 2,
+    "countries_territories": "Albania",
+    "geoid": "AL",
+    "country_code": "ALB",
+    "pop_data_2018": 2866376.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -1242,6 +1264,17 @@
     "country_code": "ALB",
     "pop_data_2018": 2866376.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 27,
+    "deaths": 1,
+    "countries_territories": "Andorra",
+    "geoid": "AD",
+    "country_code": "AND",
+    "pop_data_2018": 77006.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -1407,49 +1440,16 @@
     "country_code": "AND",
     "pop_data_2018": 77006.0
 },{
-    "date_report": "2020-03-20",
-    "day": 20,
-    "month": 3,
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
     "year": 2020,
-    "cases": 22,
-    "deaths": 0,
-    "countries_territories": "Andorra",
-    "geoid": "AD",
-    "country_code": "AND",
-    "pop_data_2018": 77006.0
-},{
-    "date_report": "2020-03-19",
-    "day": 19,
-    "month": 3,
-    "year": 2020,
-    "cases": 39,
-    "deaths": 0,
-    "countries_territories": "Andorra",
-    "geoid": "AD",
-    "country_code": "AND",
-    "pop_data_2018": 77006.0
-},{
-    "date_report": "2020-03-18",
-    "day": 18,
-    "month": 3,
-    "year": 2020,
-    "cases": 0,
-    "deaths": 0,
-    "countries_territories": "Andorra",
-    "geoid": "AD",
-    "country_code": "AND",
-    "pop_data_2018": 77006.0
-},{
-    "date_report": "2020-03-17",
-    "day": 17,
-    "month": 3,
-    "year": 2020,
-    "cases": 9,
-    "deaths": 0,
-    "countries_territories": "Andorra",
-    "geoid": "AD",
-    "country_code": "AND",
-    "pop_data_2018": 77006.0
+    "cases": 314,
+    "deaths": 47,
+    "countries_territories": "Algeria",
+    "geoid": "DZ",
+    "country_code": "DZA",
+    "pop_data_2018": 42228429.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -2452,6 +2452,50 @@
     "country_code": "DZA",
     "pop_data_2018": 42228429.0
 },{
+    "date_report": "2020-03-20",
+    "day": 20,
+    "month": 3,
+    "year": 2020,
+    "cases": 22,
+    "deaths": 0,
+    "countries_territories": "Andorra",
+    "geoid": "AD",
+    "country_code": "AND",
+    "pop_data_2018": 77006.0
+},{
+    "date_report": "2020-03-19",
+    "day": 19,
+    "month": 3,
+    "year": 2020,
+    "cases": 39,
+    "deaths": 0,
+    "countries_territories": "Andorra",
+    "geoid": "AD",
+    "country_code": "AND",
+    "pop_data_2018": 77006.0
+},{
+    "date_report": "2020-03-18",
+    "day": 18,
+    "month": 3,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Andorra",
+    "geoid": "AD",
+    "country_code": "AND",
+    "pop_data_2018": 77006.0
+},{
+    "date_report": "2020-03-17",
+    "day": 17,
+    "month": 3,
+    "year": 2020,
+    "cases": 9,
+    "deaths": 0,
+    "countries_territories": "Andorra",
+    "geoid": "AD",
+    "country_code": "AND",
+    "pop_data_2018": 77006.0
+},{
     "date_report": "2020-03-16",
     "day": 16,
     "month": 3,
@@ -2484,6 +2528,17 @@
     "geoid": "AD",
     "country_code": "AND",
     "pop_data_2018": 77006.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 0,
+    "countries_territories": "Angola",
+    "geoid": "AO",
+    "country_code": "AGO",
+    "pop_data_2018": 30809762.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -2639,6 +2694,17 @@
     "country_code": "AGO",
     "pop_data_2018": 30809762.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Anguilla",
+    "geoid": "AI",
+    "country_code": "",
+    "pop_data_2018": ""
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -2737,6 +2803,17 @@
     "geoid": "AI",
     "country_code": "",
     "pop_data_2018": ""
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Antigua_and_Barbuda",
+    "geoid": "AG",
+    "country_code": "ATG",
+    "pop_data_2018": 96286.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -2913,6 +2990,17 @@
     "geoid": "AG",
     "country_code": "ATG",
     "pop_data_2018": 96286.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 186,
+    "deaths": 6,
+    "countries_territories": "Argentina",
+    "geoid": "AR",
+    "country_code": "ARG",
+    "pop_data_2018": 44494502.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -3232,6 +3320,17 @@
     "geoid": "AR",
     "country_code": "ARG",
     "pop_data_2018": 44494502.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 34,
+    "deaths": 0,
+    "countries_territories": "Armenia",
+    "geoid": "AM",
+    "country_code": "ARM",
+    "pop_data_2018": 2951776.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -4190,6 +4289,17 @@
     "country_code": "ARM",
     "pop_data_2018": 2951776.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 0,
+    "countries_territories": "Aruba",
+    "geoid": "AW",
+    "country_code": "ABW",
+    "pop_data_2018": 105845.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -4332,6 +4442,17 @@
     "geoid": "AW",
     "country_code": "ABW",
     "pop_data_2018": 105845.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 139,
+    "deaths": 4,
+    "countries_territories": "Australia",
+    "geoid": "AU",
+    "country_code": "AUS",
+    "pop_data_2018": 24992369.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -5389,6 +5510,17 @@
     "country_code": "AUS",
     "pop_data_2018": 24992369.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 241,
+    "deaths": 18,
+    "countries_territories": "Austria",
+    "geoid": "AT",
+    "country_code": "AUT",
+    "pop_data_2018": 8847037.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -6445,6 +6577,17 @@
     "country_code": "AUT",
     "pop_data_2018": 8847037.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 78,
+    "deaths": 0,
+    "countries_territories": "Azerbaijan",
+    "geoid": "AZ",
+    "country_code": "AZE",
+    "pop_data_2018": 9942334.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -7424,6 +7567,17 @@
     "country_code": "AZE",
     "pop_data_2018": 9942334.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 4,
+    "deaths": 1,
+    "countries_territories": "Bahamas",
+    "geoid": "BS",
+    "country_code": "BHS",
+    "pop_data_2018": 385640.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -7621,6 +7775,17 @@
     "geoid": "BS",
     "country_code": "BHS",
     "pop_data_2018": 385640.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 45,
+    "deaths": 0,
+    "countries_territories": "Bahrain",
+    "geoid": "BH",
+    "country_code": "BHR",
+    "pop_data_2018": 1569439.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -8667,6 +8832,17 @@
     "country_code": "BHR",
     "pop_data_2018": 1569439.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 9,
+    "deaths": 2,
+    "countries_territories": "Bangladesh",
+    "geoid": "BD",
+    "country_code": "BGD",
+    "pop_data_2018": 161356039.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -8898,6 +9074,17 @@
     "country_code": "BGD",
     "pop_data_2018": 161356039.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 6,
+    "deaths": 0,
+    "countries_territories": "Barbados",
+    "geoid": "BB",
+    "country_code": "BRB",
+    "pop_data_2018": 286641.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -9095,6 +9282,17 @@
     "geoid": "BB",
     "country_code": "BRB",
     "pop_data_2018": 286641.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 43,
+    "deaths": 1,
+    "countries_territories": "Belarus",
+    "geoid": "BY",
+    "country_code": "BLR",
+    "pop_data_2018": 9485386.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -10063,6 +10261,17 @@
     "geoid": "BY",
     "country_code": "BLR",
     "pop_data_2018": 9485386.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1661,
+    "deaths": 140,
+    "countries_territories": "Belgium",
+    "geoid": "BE",
+    "country_code": "BEL",
+    "pop_data_2018": 11422068.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -11120,6 +11329,17 @@
     "country_code": "BEL",
     "pop_data_2018": 11422068.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Belize",
+    "geoid": "BZ",
+    "country_code": "BLZ",
+    "pop_data_2018": 383071.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -11251,6 +11471,17 @@
     "geoid": "BZ",
     "country_code": "BLZ",
     "pop_data_2018": 383071.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Benin",
+    "geoid": "BJ",
+    "country_code": "BEN",
+    "pop_data_2018": 11485048.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -11461,6 +11692,17 @@
     "country_code": "BEN",
     "pop_data_2018": 11485048.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 0,
+    "countries_territories": "Bermuda",
+    "geoid": "BM",
+    "country_code": "BMU",
+    "pop_data_2018": 63968.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -11636,6 +11878,17 @@
     "geoid": "BM",
     "country_code": "BMU",
     "pop_data_2018": 63968.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Bhutan",
+    "geoid": "BT",
+    "country_code": "BTN",
+    "pop_data_2018": 754394.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -11878,6 +12131,17 @@
     "geoid": "BT",
     "country_code": "BTN",
     "pop_data_2018": 754394.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 18,
+    "deaths": 0,
+    "countries_territories": "Bolivia",
+    "geoid": "BO",
+    "country_code": "BOL",
+    "pop_data_2018": 11353142.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -12132,6 +12396,17 @@
     "country_code": "BOL",
     "pop_data_2018": 11353142.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Bonaire, Saint Eustatius and Saba",
+    "geoid": "BQ",
+    "country_code": "",
+    "pop_data_2018": ""
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -12164,6 +12439,17 @@
     "geoid": "BQ",
     "country_code": "",
     "pop_data_2018": ""
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 46,
+    "deaths": 3,
+    "countries_territories": "Bosnia_and_Herzegovina",
+    "geoid": "BA",
+    "country_code": "BIH",
+    "pop_data_2018": 3323929.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -12418,6 +12704,17 @@
     "country_code": "BIH",
     "pop_data_2018": 3323929.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Botswana",
+    "geoid": "BW",
+    "country_code": "BWA",
+    "pop_data_2018": 2254126.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -12461,6 +12758,17 @@
     "geoid": "BW",
     "country_code": "BWA",
     "pop_data_2018": 2254126.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1222,
+    "deaths": 73,
+    "countries_territories": "Brazil",
+    "geoid": "BR",
+    "country_code": "BRA",
+    "pop_data_2018": 209469333.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -13485,6 +13793,17 @@
     "country_code": "BRA",
     "pop_data_2018": 209469333.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "British_Virgin_Islands",
+    "geoid": "VG",
+    "country_code": "VGB",
+    "pop_data_2018": 29802.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -13583,6 +13902,17 @@
     "geoid": "VG",
     "country_code": "VGB",
     "pop_data_2018": 29802.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 0,
+    "countries_territories": "Brunei_Darussalam",
+    "geoid": "BN",
+    "country_code": "BRN",
+    "pop_data_2018": 428962.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -13858,6 +14188,17 @@
     "geoid": "BN",
     "country_code": "BRN",
     "pop_data_2018": 428962.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 18,
+    "deaths": 3,
+    "countries_territories": "Bulgaria",
+    "geoid": "BG",
+    "country_code": "BGR",
+    "pop_data_2018": 7024216.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -14145,6 +14486,17 @@
     "country_code": "BGR",
     "pop_data_2018": 7024216.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 14,
+    "deaths": 0,
+    "countries_territories": "Burkina_Faso",
+    "geoid": "BF",
+    "country_code": "BFA",
+    "pop_data_2018": 19751535.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -14398,6 +14750,17 @@
     "country_code": "BFA",
     "pop_data_2018": 19751535.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Burundi",
+    "geoid": "BI",
+    "country_code": "BDI",
+    "pop_data_2018": 11175378.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -14441,6 +14804,17 @@
     "geoid": "BI",
     "country_code": "BDI",
     "pop_data_2018": 11175378.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Cambodia",
+    "geoid": "KH",
+    "country_code": "KHM",
+    "pop_data_2018": 16249798.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -15399,6 +15773,17 @@
     "country_code": "KHM",
     "pop_data_2018": 16249798.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 46,
+    "deaths": 1,
+    "countries_territories": "Cameroon",
+    "geoid": "CM",
+    "country_code": "CMR",
+    "pop_data_2018": 25216237.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -15651,6 +16036,17 @@
     "geoid": "CM",
     "country_code": "CMR",
     "pop_data_2018": 25216237.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1363,
+    "deaths": 44,
+    "countries_territories": "Canada",
+    "geoid": "CA",
+    "country_code": "CAN",
+    "pop_data_2018": 37058856.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -16708,6 +17104,17 @@
     "country_code": "CAN",
     "pop_data_2018": 37058856.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Cape_Verde",
+    "geoid": "CV",
+    "country_code": "CPV",
+    "pop_data_2018": 543767.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -17577,6 +17984,17 @@
     "country_code": "",
     "pop_data_2018": 3000.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 6,
+    "deaths": 0,
+    "countries_territories": "Cayman_Islands",
+    "geoid": "KY",
+    "country_code": "CYM",
+    "pop_data_2018": 64174.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -17752,6 +18170,17 @@
     "geoid": "KY",
     "country_code": "CYM",
     "pop_data_2018": 64174.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Central_African_Republic",
+    "geoid": "CF",
+    "country_code": "CAF",
+    "pop_data_2018": 4666377.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -17973,6 +18402,17 @@
     "country_code": "CAF",
     "pop_data_2018": 4666377.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Chad",
+    "geoid": "TD",
+    "country_code": "TCD",
+    "pop_data_2018": 15477751.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -18148,6 +18588,17 @@
     "geoid": "TD",
     "country_code": "TCD",
     "pop_data_2018": 15477751.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 424,
+    "deaths": 5,
+    "countries_territories": "Chile",
+    "geoid": "CL",
+    "country_code": "CHL",
+    "pop_data_2018": 18729160.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -18489,6 +18940,17 @@
     "geoid": "CL",
     "country_code": "CHL",
     "pop_data_2018": 18729160.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 48,
+    "deaths": 3,
+    "countries_territories": "China",
+    "geoid": "CN",
+    "country_code": "CHN",
+    "pop_data_2018": 1392730000.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -19546,6 +20008,17 @@
     "country_code": "CHN",
     "pop_data_2018": 1392730000.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 139,
+    "deaths": 7,
+    "countries_territories": "Colombia",
+    "geoid": "CO",
+    "country_code": "COL",
+    "pop_data_2018": 49648685.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -19821,6 +20294,17 @@
     "country_code": "COL",
     "pop_data_2018": 49648685.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 4,
+    "deaths": 2,
+    "countries_territories": "Congo",
+    "geoid": "CG",
+    "country_code": "COG",
+    "pop_data_2018": 5244363.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -20040,6 +20524,17 @@
     "geoid": "CG",
     "country_code": "COG",
     "pop_data_2018": 5244363.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 19,
+    "deaths": 0,
+    "countries_territories": "Costa_Rica",
+    "geoid": "CR",
+    "country_code": "CRI",
+    "pop_data_2018": 4999441.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -20349,6 +20844,17 @@
     "country_code": "CRI",
     "pop_data_2018": 4999441.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 27,
+    "deaths": 1,
+    "countries_territories": "Cote_dIvoire",
+    "geoid": "CI",
+    "country_code": "CIV",
+    "pop_data_2018": 25069229.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -20590,6 +21096,17 @@
     "geoid": "CI",
     "country_code": "CIV",
     "pop_data_2018": 25069229.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 47,
+    "deaths": 4,
+    "countries_territories": "Croatia",
+    "geoid": "HR",
+    "country_code": "HRV",
+    "pop_data_2018": 4089400.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -21614,6 +22131,17 @@
     "country_code": "HRV",
     "pop_data_2018": 4089400.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 19,
+    "deaths": 0,
+    "countries_territories": "Cuba",
+    "geoid": "CU",
+    "country_code": "CUB",
+    "pop_data_2018": 11338138.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -21845,6 +22373,17 @@
     "country_code": "CUB",
     "pop_data_2018": 11338138.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Cura\u00c3\u00a7ao",
+    "geoid": "CW",
+    "country_code": "CUW",
+    "pop_data_2018": 159849.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -21976,6 +22515,17 @@
     "geoid": "CW",
     "country_code": "CUW",
     "pop_data_2018": 159849.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 30,
+    "deaths": 0,
+    "countries_territories": "Cyprus",
+    "geoid": "CY",
+    "country_code": "CYP",
+    "pop_data_2018": 1189265.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -22240,6 +22790,17 @@
     "geoid": "CY",
     "country_code": "CYP",
     "pop_data_2018": 1189265.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 282,
+    "deaths": 6,
+    "countries_territories": "Czech_Republic",
+    "geoid": "CZ",
+    "country_code": "CZE",
+    "pop_data_2018": 10625695.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -23297,6 +23858,17 @@
     "country_code": "CZE",
     "pop_data_2018": 10625695.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 20,
+    "deaths": 5,
+    "countries_territories": "Democratic_Republic_of_the_Congo",
+    "geoid": "CD",
+    "country_code": "COD",
+    "pop_data_2018": 84068091.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -23549,6 +24121,17 @@
     "geoid": "CD",
     "country_code": "COD",
     "pop_data_2018": 84068091.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 320,
+    "deaths": 22,
+    "countries_territories": "Denmark",
+    "geoid": "DK",
+    "country_code": "DNK",
+    "pop_data_2018": 5797446.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -24606,6 +25189,17 @@
     "country_code": "DNK",
     "pop_data_2018": 5797446.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 10,
+    "deaths": 0,
+    "countries_territories": "Djibouti",
+    "geoid": "DJ",
+    "country_code": "DJI",
+    "pop_data_2018": 958920.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -24793,6 +25387,17 @@
     "country_code": "DJI",
     "pop_data_2018": 958920.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Dominica",
+    "geoid": "DM",
+    "country_code": "DMA",
+    "pop_data_2018": 71625.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -24935,6 +25540,17 @@
     "geoid": "DM",
     "country_code": "DMA",
     "pop_data_2018": 71625.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 90,
+    "deaths": 9,
+    "countries_territories": "Dominican_Republic",
+    "geoid": "DO",
+    "country_code": "DOM",
+    "pop_data_2018": 10627165.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -25892,6 +26508,17 @@
     "geoid": "DO",
     "country_code": "DOM",
     "pop_data_2018": 10627165.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 97,
+    "deaths": 27,
+    "countries_territories": "Ecuador",
+    "geoid": "EC",
+    "country_code": "ECU",
+    "pop_data_2018": 17084357.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -26893,6 +27520,17 @@
     "geoid": "EC",
     "country_code": "ECU",
     "pop_data_2018": 17084357.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 206,
+    "deaths": 14,
+    "countries_territories": "Egypt",
+    "geoid": "EG",
+    "country_code": "EGY",
+    "pop_data_2018": 98423595.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -27906,6 +28544,17 @@
     "country_code": "EGY",
     "pop_data_2018": 98423595.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 6,
+    "deaths": 0,
+    "countries_territories": "El_Salvador",
+    "geoid": "SV",
+    "country_code": "SLV",
+    "pop_data_2018": 6420744.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -28092,6 +28741,17 @@
     "geoid": "SV",
     "country_code": "SLV",
     "pop_data_2018": 6420744.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Equatorial_Guinea",
+    "geoid": "GQ",
+    "country_code": "GNQ",
+    "pop_data_2018": 1308974.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -28324,6 +28984,17 @@
     "country_code": "GNQ",
     "pop_data_2018": 1308974.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 7,
+    "deaths": 0,
+    "countries_territories": "Eritrea",
+    "geoid": "ER",
+    "country_code": "ERI",
+    "pop_data_2018": ""
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -28477,6 +29148,17 @@
     "geoid": "ER",
     "country_code": "ERI",
     "pop_data_2018": ""
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 57,
+    "deaths": 1,
+    "countries_territories": "Estonia",
+    "geoid": "EE",
+    "country_code": "EST",
+    "pop_data_2018": 1320884.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -29479,6 +30161,17 @@
     "country_code": "EST",
     "pop_data_2018": 1320884.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Eswatini",
+    "geoid": "SZ",
+    "country_code": "SWZ",
+    "pop_data_2018": 1367000.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -29709,6 +30402,17 @@
     "geoid": "SZ",
     "country_code": "SWZ",
     "pop_data_2018": 1367000.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 3,
+    "deaths": 0,
+    "countries_territories": "Ethiopia",
+    "geoid": "ET",
+    "country_code": "ETH",
+    "pop_data_2018": 109224559.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -29952,6 +30656,17 @@
     "country_code": "ETH",
     "pop_data_2018": 109224559.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Falkland_Islands_(Malvinas)",
+    "geoid": "FK",
+    "country_code": "",
+    "pop_data_2018": ""
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -29962,6 +30677,17 @@
     "geoid": "FK",
     "country_code": "",
     "pop_data_2018": ""
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 0,
+    "countries_territories": "Faroe_Islands",
+    "geoid": "FO",
+    "country_code": "FRO",
+    "pop_data_2018": 48497.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -30139,6 +30865,17 @@
     "country_code": "FRO",
     "pop_data_2018": 48497.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Fiji",
+    "geoid": "FJ",
+    "country_code": "FJI",
+    "pop_data_2018": 883483.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -30314,6 +31051,17 @@
     "geoid": "FJ",
     "country_code": "FJI",
     "pop_data_2018": 883483.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 267,
+    "deaths": 5,
+    "countries_territories": "Finland",
+    "geoid": "FI",
+    "country_code": "FIN",
+    "pop_data_2018": 5518050.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -31315,6 +32063,17 @@
     "geoid": "FI",
     "country_code": "FIN",
     "pop_data_2018": 5518050.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 4267,
+    "deaths": 1053,
+    "countries_territories": "France",
+    "geoid": "FR",
+    "country_code": "FRA",
+    "pop_data_2018": 66987244.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -32372,6 +33131,17 @@
     "country_code": "FRA",
     "pop_data_2018": 66987244.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "French_Polynesia",
+    "geoid": "PF",
+    "country_code": "PYF",
+    "pop_data_2018": 277679.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -32558,6 +33328,17 @@
     "geoid": "PF",
     "country_code": "PYF",
     "pop_data_2018": 277679.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Gabon",
+    "geoid": "GA",
+    "country_code": "GAB",
+    "pop_data_2018": 2119275.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -32801,6 +33582,17 @@
     "country_code": "GAB",
     "pop_data_2018": 2119275.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Gambia",
+    "geoid": "GM",
+    "country_code": "GMB",
+    "pop_data_2018": 2280102.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -32998,6 +33790,17 @@
     "geoid": "GM",
     "country_code": "GMB",
     "pop_data_2018": 2280102.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 9,
+    "deaths": 0,
+    "countries_territories": "Georgia",
+    "geoid": "GE",
+    "country_code": "GEO",
+    "pop_data_2018": 3731000.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -34021,6 +34824,17 @@
     "geoid": "GE",
     "country_code": "GEO",
     "pop_data_2018": 3731000.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 12018,
+    "deaths": 325,
+    "countries_territories": "Germany",
+    "geoid": "DE",
+    "country_code": "DEU",
+    "pop_data_2018": 82927922.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -35078,6 +35892,17 @@
     "country_code": "DEU",
     "pop_data_2018": 82927922.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 9,
+    "deaths": 0,
+    "countries_territories": "Ghana",
+    "geoid": "GH",
+    "country_code": "GHA",
+    "pop_data_2018": 29767108.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -35320,6 +36145,17 @@
     "country_code": "GHA",
     "pop_data_2018": 29767108.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 3,
+    "deaths": 0,
+    "countries_territories": "Gibraltar",
+    "geoid": "GI",
+    "country_code": "GIB",
+    "pop_data_2018": 33718.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -35495,6 +36331,17 @@
     "geoid": "GI",
     "country_code": "GIB",
     "pop_data_2018": 33718.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 60,
+    "deaths": 9,
+    "countries_territories": "Greece",
+    "geoid": "EL",
+    "country_code": "GRC",
+    "pop_data_2018": 10727668.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -36530,6 +37377,17 @@
     "country_code": "GRC",
     "pop_data_2018": 10727668.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Greenland",
+    "geoid": "GL",
+    "country_code": "GRL",
+    "pop_data_2018": 56025.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -36706,6 +37564,17 @@
     "country_code": "GRL",
     "pop_data_2018": 56025.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Grenada",
+    "geoid": "GD",
+    "country_code": "GRD",
+    "pop_data_2018": 111454.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -36848,6 +37717,17 @@
     "geoid": "GD",
     "country_code": "GRD",
     "pop_data_2018": 111454.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 6,
+    "deaths": 0,
+    "countries_territories": "Guam",
+    "geoid": "GU",
+    "country_code": "GUM",
+    "pop_data_2018": 165768.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -37035,6 +37915,17 @@
     "geoid": "GU",
     "country_code": "GUM",
     "pop_data_2018": 165768.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 11,
+    "deaths": 1,
+    "countries_territories": "Guatemala",
+    "geoid": "GT",
+    "country_code": "GTM",
+    "pop_data_2018": 17247807.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -37267,6 +38158,17 @@
     "country_code": "GTM",
     "pop_data_2018": 17247807.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 22,
+    "deaths": 0,
+    "countries_territories": "Guernsey",
+    "geoid": "GG",
+    "country_code": "GGY",
+    "pop_data_2018": 63026.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -37442,6 +38344,17 @@
     "geoid": "GG",
     "country_code": "GGY",
     "pop_data_2018": 63026.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 59,
+    "deaths": 0,
+    "countries_territories": "Guinea",
+    "geoid": "GN",
+    "country_code": "GIN",
+    "pop_data_2018": 12414318.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -37674,6 +38587,17 @@
     "country_code": "GIN",
     "pop_data_2018": 12414318.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 3,
+    "deaths": 0,
+    "countries_territories": "Guinea_Bissau",
+    "geoid": "GW",
+    "country_code": "GNB",
+    "pop_data_2018": 1874309.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -37772,6 +38696,17 @@
     "geoid": "GW",
     "country_code": "GNB",
     "pop_data_2018": 1874309.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Guyana",
+    "geoid": "GY",
+    "country_code": "GUY",
+    "pop_data_2018": 779004.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -38004,6 +38939,17 @@
     "country_code": "GUY",
     "pop_data_2018": 779004.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 3,
+    "deaths": 0,
+    "countries_territories": "Haiti",
+    "geoid": "HT",
+    "country_code": "HTI",
+    "pop_data_2018": 11123176.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -38179,6 +39125,17 @@
     "geoid": "HT",
     "country_code": "HTI",
     "pop_data_2018": 11123176.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Holy_See",
+    "geoid": "VA",
+    "country_code": "VAT",
+    "pop_data_2018": 1000.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -38410,6 +39367,17 @@
     "geoid": "VA",
     "country_code": "VAT",
     "pop_data_2018": 1000.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 4,
+    "deaths": 7,
+    "countries_territories": "Honduras",
+    "geoid": "HN",
+    "country_code": "HND",
+    "pop_data_2018": 9587522.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -38652,6 +39620,17 @@
     "geoid": "HN",
     "country_code": "HND",
     "pop_data_2018": 9587522.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 55,
+    "deaths": 2,
+    "countries_territories": "Hungary",
+    "geoid": "HU",
+    "country_code": "HUN",
+    "pop_data_2018": 9768785.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -38982,6 +39961,17 @@
     "geoid": "HU",
     "country_code": "HUN",
     "pop_data_2018": 9768785.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 53,
+    "deaths": 0,
+    "countries_territories": "Iceland",
+    "geoid": "IS",
+    "country_code": "ISL",
+    "pop_data_2018": 353574.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -40039,6 +41029,17 @@
     "country_code": "ISL",
     "pop_data_2018": 353574.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 472,
+    "deaths": 9,
+    "countries_territories": "India",
+    "geoid": "IN",
+    "country_code": "IND",
+    "pop_data_2018": 1352617328.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -41084,6 +42085,17 @@
     "country_code": "IND",
     "pop_data_2018": 1352617328.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 106,
+    "deaths": 10,
+    "countries_territories": "Indonesia",
+    "geoid": "ID",
+    "country_code": "IDN",
+    "pop_data_2018": 267663435.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -42062,6 +43074,17 @@
     "geoid": "ID",
     "country_code": "IDN",
     "pop_data_2018": 267663435.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 5275,
+    "deaths": 292,
+    "countries_territories": "Iran",
+    "geoid": "IR",
+    "country_code": "IRN",
+    "pop_data_2018": 81800269.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -43119,6 +44142,17 @@
     "country_code": "IRN",
     "pop_data_2018": 81800269.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 106,
+    "deaths": 2,
+    "countries_territories": "Iraq",
+    "geoid": "IQ",
+    "country_code": "IRQ",
+    "pop_data_2018": 38433600.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -44152,6 +45186,17 @@
     "geoid": "IQ",
     "country_code": "IRQ",
     "pop_data_2018": 38433600.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 331,
+    "deaths": 17,
+    "countries_territories": "Ireland",
+    "geoid": "IE",
+    "country_code": "IRL",
+    "pop_data_2018": 4853506.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -45187,6 +46232,17 @@
     "country_code": "IRL",
     "pop_data_2018": 4853506.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 12,
+    "deaths": 0,
+    "countries_territories": "Isle_of_Man",
+    "geoid": "IM",
+    "country_code": "IMN",
+    "pop_data_2018": 84077.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -45351,6 +46407,17 @@
     "geoid": "IM",
     "country_code": "IMN",
     "pop_data_2018": 84077.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 590,
+    "deaths": 7,
+    "countries_territories": "Israel",
+    "geoid": "IL",
+    "country_code": "ISR",
+    "pop_data_2018": 8883800.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -46374,6 +47441,17 @@
     "geoid": "IL",
     "country_code": "ISR",
     "pop_data_2018": 8883800.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 4805,
+    "deaths": 681,
+    "countries_territories": "Italy",
+    "geoid": "IT",
+    "country_code": "ITA",
+    "pop_data_2018": 60431283.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -47431,6 +48509,17 @@
     "country_code": "ITA",
     "pop_data_2018": 60431283.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 0,
+    "countries_territories": "Jamaica",
+    "geoid": "JM",
+    "country_code": "JAM",
+    "pop_data_2018": 2934855.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -47683,6 +48772,17 @@
     "geoid": "JM",
     "country_code": "JAM",
     "pop_data_2018": 2934855.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 336,
+    "deaths": 1,
+    "countries_territories": "Japan",
+    "geoid": "JP",
+    "country_code": "JPN",
+    "pop_data_2018": 126529100.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -48740,6 +49840,17 @@
     "country_code": "JPN",
     "pop_data_2018": 126529100.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 5,
+    "deaths": 1,
+    "countries_territories": "Jersey",
+    "geoid": "JE",
+    "country_code": "JEY",
+    "pop_data_2018": 106800.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -48915,6 +50026,17 @@
     "geoid": "JE",
     "country_code": "JEY",
     "pop_data_2018": 106800.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 24,
+    "deaths": 0,
+    "countries_territories": "Jordan",
+    "geoid": "JO",
+    "country_code": "JOR",
+    "pop_data_2018": 9956011.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -49169,6 +50291,17 @@
     "country_code": "JOR",
     "pop_data_2018": 9956011.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Kazakhstan",
+    "geoid": "KZ",
+    "country_code": "KAZ",
+    "pop_data_2018": 18276499.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -49399,6 +50532,17 @@
     "geoid": "KZ",
     "country_code": "KAZ",
     "pop_data_2018": 18276499.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 4,
+    "deaths": 0,
+    "countries_territories": "Kenya",
+    "geoid": "KE",
+    "country_code": "KEN",
+    "pop_data_2018": 51393010.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -49642,6 +50786,17 @@
     "country_code": "KEN",
     "pop_data_2018": 51393010.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Kosovo",
+    "geoid": "XK",
+    "country_code": "XKX",
+    "pop_data_2018": 1845300.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -49861,6 +51016,17 @@
     "geoid": "XK",
     "country_code": "XKX",
     "pop_data_2018": 1845300.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 137,
+    "deaths": 1,
+    "countries_territories": "Kuwait",
+    "geoid": "KW",
+    "country_code": "KWT",
+    "pop_data_2018": 4137309.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -50885,6 +52051,17 @@
     "country_code": "KWT",
     "pop_data_2018": 4137309.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Kyrgyzstan",
+    "geoid": "KG",
+    "country_code": "KGZ",
+    "pop_data_2018": 6315800.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -51072,6 +52249,17 @@
     "country_code": "KGZ",
     "pop_data_2018": 6315800.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Laos",
+    "geoid": "LA",
+    "country_code": "LAO",
+    "pop_data_2018": 7061507.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -51192,6 +52380,17 @@
     "geoid": "LA",
     "country_code": "LAO",
     "pop_data_2018": 7061507.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 16,
+    "deaths": 0,
+    "countries_territories": "Latvia",
+    "geoid": "LV",
+    "country_code": "LVA",
+    "pop_data_2018": 1926542.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -51511,6 +52710,17 @@
     "geoid": "LV",
     "country_code": "LVA",
     "pop_data_2018": 1926542.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 26,
+    "deaths": 1,
+    "countries_territories": "Lebanon",
+    "geoid": "LB",
+    "country_code": "LBN",
+    "pop_data_2018": 6848925.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -52524,6 +53734,17 @@
     "country_code": "LBN",
     "pop_data_2018": 6848925.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 3,
+    "deaths": 1,
+    "countries_territories": "Liberia",
+    "geoid": "LR",
+    "country_code": "LBR",
+    "pop_data_2018": 4818977.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -52733,6 +53954,17 @@
     "country_code": "LBR",
     "pop_data_2018": 4818977.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 7,
+    "deaths": 0,
+    "countries_territories": "Libya",
+    "geoid": "LY",
+    "country_code": "LBY",
+    "pop_data_2018": 6678567.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -52853,6 +54085,17 @@
     "geoid": "LY",
     "country_code": "LBY",
     "pop_data_2018": 6678567.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 1,
+    "countries_territories": "Liechtenstein",
+    "geoid": "LI",
+    "country_code": "LIE",
+    "pop_data_2018": 37910.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -53128,6 +54371,17 @@
     "geoid": "LI",
     "country_code": "LIE",
     "pop_data_2018": 37910.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Lithuania",
+    "geoid": "LT",
+    "country_code": "LTU",
+    "pop_data_2018": 2789533.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -54085,6 +55339,17 @@
     "geoid": "LT",
     "country_code": "LTU",
     "pop_data_2018": 2789533.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 117,
+    "deaths": 0,
+    "countries_territories": "Luxembourg",
+    "geoid": "LU",
+    "country_code": "LUX",
+    "pop_data_2018": 607728.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -55065,6 +56330,17 @@
     "country_code": "LUX",
     "pop_data_2018": 607728.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 6,
+    "deaths": 0,
+    "countries_territories": "Madagascar",
+    "geoid": "MG",
+    "country_code": "MDG",
+    "pop_data_2018": 26262368.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -55230,6 +56506,17 @@
     "country_code": "MDG",
     "pop_data_2018": 26262368.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Malawi",
+    "geoid": "MW",
+    "country_code": "MWI",
+    "pop_data_2018": 18143315.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -55251,6 +56538,17 @@
     "geoid": "MW",
     "country_code": "MWI",
     "pop_data_2018": 18143315.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 150,
+    "deaths": 4,
+    "countries_territories": "Malaysia",
+    "geoid": "MY",
+    "country_code": "MYS",
+    "pop_data_2018": 31528585.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -56297,6 +57595,17 @@
     "country_code": "MYS",
     "pop_data_2018": 31528585.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Maldives",
+    "geoid": "MV",
+    "country_code": "MDV",
+    "pop_data_2018": 515696.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -56583,6 +57892,17 @@
     "country_code": "MDV",
     "pop_data_2018": 515696.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 0,
+    "countries_territories": "Mali",
+    "geoid": "ML",
+    "country_code": "MLI",
+    "pop_data_2018": 19077690.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -56692,6 +58012,17 @@
     "geoid": "ML",
     "country_code": "MLI",
     "pop_data_2018": 19077690.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 11,
+    "deaths": 0,
+    "countries_territories": "Malta",
+    "geoid": "MT",
+    "country_code": "MLT",
+    "pop_data_2018": 483530.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -56979,6 +58310,17 @@
     "country_code": "MLT",
     "pop_data_2018": 483530.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Mauritania",
+    "geoid": "MR",
+    "country_code": "MRT",
+    "pop_data_2018": 4403319.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -57210,6 +58552,17 @@
     "country_code": "MRT",
     "pop_data_2018": 4403319.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 10,
+    "deaths": 0,
+    "countries_territories": "Mauritius",
+    "geoid": "MU",
+    "country_code": "MUS",
+    "pop_data_2018": 1265303.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -57385,6 +58738,17 @@
     "geoid": "MU",
     "country_code": "MUS",
     "pop_data_2018": 1265303.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 202,
+    "deaths": 19,
+    "countries_territories": "Mexico",
+    "geoid": "MX",
+    "country_code": "MEX",
+    "pop_data_2018": 126190788.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -58354,6 +59718,17 @@
     "country_code": "MEX",
     "pop_data_2018": 126190788.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 161,
+    "deaths": 4,
+    "countries_territories": "Moldova",
+    "geoid": "MD",
+    "country_code": "MDA",
+    "pop_data_2018": 3545883.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -58639,6 +60014,17 @@
     "geoid": "MD",
     "country_code": "MDA",
     "pop_data_2018": 3545883.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 2,
+    "countries_territories": "Monaco",
+    "geoid": "MC",
+    "country_code": "MCO",
+    "pop_data_2018": 38682.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -59564,6 +60950,17 @@
     "country_code": "MCO",
     "pop_data_2018": 38682.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Mongolia",
+    "geoid": "MN",
+    "country_code": "MNG",
+    "pop_data_2018": 3170208.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -59784,6 +61181,17 @@
     "country_code": "MNG",
     "pop_data_2018": 3170208.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 27,
+    "deaths": 0,
+    "countries_territories": "Montenegro",
+    "geoid": "ME",
+    "country_code": "MNE",
+    "pop_data_2018": 622345.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -59982,6 +61390,17 @@
     "country_code": "MNE",
     "pop_data_2018": 622345.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Montserrat",
+    "geoid": "MS",
+    "country_code": "MSR",
+    "pop_data_2018": 5900.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -60135,6 +61554,17 @@
     "geoid": "MS",
     "country_code": "MSR",
     "pop_data_2018": 5900.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 211,
+    "deaths": 15,
+    "countries_territories": "Morocco",
+    "geoid": "MA",
+    "country_code": "MAR",
+    "pop_data_2018": 36029138.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -60422,6 +61852,17 @@
     "country_code": "MAR",
     "pop_data_2018": 36029138.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Mozambique",
+    "geoid": "MZ",
+    "country_code": "MOZ",
+    "pop_data_2018": 29495962.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -60565,6 +62006,17 @@
     "country_code": "MOZ",
     "pop_data_2018": 29495962.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Myanmar",
+    "geoid": "MM",
+    "country_code": "MMR",
+    "pop_data_2018": 53708395.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -60707,6 +62159,17 @@
     "geoid": "MM",
     "country_code": "MMR",
     "pop_data_2018": 53708395.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Namibia",
+    "geoid": "",
+    "country_code": "NAM",
+    "pop_data_2018": 2448255.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -60938,6 +62401,17 @@
     "geoid": "",
     "country_code": "NAM",
     "pop_data_2018": 2448255.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Nepal",
+    "geoid": "NP",
+    "country_code": "NPL",
+    "pop_data_2018": 28087871.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -61851,6 +63325,17 @@
     "geoid": "NP",
     "country_code": "NPL",
     "pop_data_2018": 28087871.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 904,
+    "deaths": 164,
+    "countries_territories": "Netherlands",
+    "geoid": "NL",
+    "country_code": "NLD",
+    "pop_data_2018": 17231017.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -62908,6 +64393,17 @@
     "country_code": "NLD",
     "pop_data_2018": 17231017.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "New_Caledonia",
+    "geoid": "NC",
+    "country_code": "NCL",
+    "pop_data_2018": 284060.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -63072,6 +64568,17 @@
     "geoid": "NC",
     "country_code": "NCL",
     "pop_data_2018": 284060.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 48,
+    "deaths": 0,
+    "countries_territories": "New_Zealand",
+    "geoid": "NZ",
+    "country_code": "NZL",
+    "pop_data_2018": 4885500.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -64030,6 +65537,17 @@
     "country_code": "NZL",
     "pop_data_2018": 4885500.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Nicaragua",
+    "geoid": "NI",
+    "country_code": "NIC",
+    "pop_data_2018": 6465513.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -64217,6 +65735,17 @@
     "country_code": "NIC",
     "pop_data_2018": 6465513.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 22,
+    "deaths": 0,
+    "countries_territories": "Niger",
+    "geoid": "NE",
+    "country_code": "NER",
+    "pop_data_2018": 22442948.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -64381,6 +65910,17 @@
     "geoid": "NE",
     "country_code": "NER",
     "pop_data_2018": 22442948.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 20,
+    "deaths": 2,
+    "countries_territories": "Nigeria",
+    "geoid": "NG",
+    "country_code": "NGA",
+    "pop_data_2018": 195874740.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -65316,6 +66856,17 @@
     "geoid": "NG",
     "country_code": "NGA",
     "pop_data_2018": 195874740.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 53,
+    "deaths": 5,
+    "countries_territories": "North_Macedonia",
+    "geoid": "MK",
+    "country_code": "MKD",
+    "pop_data_2018": 2082958.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -66274,6 +67825,17 @@
     "country_code": "MKD",
     "pop_data_2018": 2082958.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Northern_Mariana_Islands",
+    "geoid": "MP",
+    "country_code": "MNP",
+    "pop_data_2018": 56882.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -66328,6 +67890,17 @@
     "geoid": "MP",
     "country_code": "MNP",
     "pop_data_2018": 56882.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 302,
+    "deaths": 6,
+    "countries_territories": "Norway",
+    "geoid": "NO",
+    "country_code": "NOR",
+    "pop_data_2018": 5314336.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -67385,6 +68958,17 @@
     "country_code": "NOR",
     "pop_data_2018": 5314336.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 46,
+    "deaths": 1,
+    "countries_territories": "Oman",
+    "geoid": "OM",
+    "country_code": "OMN",
+    "pop_data_2018": 4829483.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -68374,6 +69958,17 @@
     "geoid": "OM",
     "country_code": "OMN",
     "pop_data_2018": 4829483.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 159,
+    "deaths": 4,
+    "countries_territories": "Pakistan",
+    "geoid": "PK",
+    "country_code": "PAK",
+    "pop_data_2018": 212215030.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -69684,6 +71279,17 @@
     "country_code": "PSE",
     "pop_data_2018": 4569087.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 128,
+    "deaths": 5,
+    "countries_territories": "Panama",
+    "geoid": "PA",
+    "country_code": "PAN",
+    "pop_data_2018": 4176873.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -69970,6 +71576,17 @@
     "country_code": "PAN",
     "pop_data_2018": 4176873.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Papua_New_Guinea",
+    "geoid": "PG",
+    "country_code": "PNG",
+    "pop_data_2018": 8606316.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -70134,6 +71751,17 @@
     "geoid": "PG",
     "country_code": "PNG",
     "pop_data_2018": 8606316.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 8,
+    "deaths": 0,
+    "countries_territories": "Paraguay",
+    "geoid": "PY",
+    "country_code": "PRY",
+    "pop_data_2018": 6956071.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -70398,6 +72026,17 @@
     "geoid": "PY",
     "country_code": "PRY",
     "pop_data_2018": 6956071.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 151,
+    "deaths": 12,
+    "countries_territories": "Peru",
+    "geoid": "PE",
+    "country_code": "PER",
+    "pop_data_2018": 31989256.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -70706,6 +72345,17 @@
     "geoid": "PE",
     "country_code": "PER",
     "pop_data_2018": 31989256.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 76,
+    "deaths": 8,
+    "countries_territories": "Philippines",
+    "geoid": "PH",
+    "country_code": "PHL",
+    "pop_data_2018": 106651922.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -71719,6 +73369,17 @@
     "country_code": "PHL",
     "pop_data_2018": 106651922.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 244,
+    "deaths": 8,
+    "countries_territories": "Poland",
+    "geoid": "PL",
+    "country_code": "POL",
+    "pop_data_2018": 37978548.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -72048,6 +73709,17 @@
     "geoid": "PL",
     "country_code": "POL",
     "pop_data_2018": 37978548.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 638,
+    "deaths": 20,
+    "countries_territories": "Portugal",
+    "geoid": "PT",
+    "country_code": "PRT",
+    "pop_data_2018": 10281762.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -72412,6 +74084,17 @@
     "country_code": "PRT",
     "pop_data_2018": 10281762.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 74,
+    "deaths": 3,
+    "countries_territories": "Puerto_Rico",
+    "geoid": "PR",
+    "country_code": "PRI",
+    "pop_data_2018": 3195153.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -72499,6 +74182,17 @@
     "geoid": "PR",
     "country_code": "PRI",
     "pop_data_2018": 3195153.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 376,
+    "deaths": 0,
+    "countries_territories": "Qatar",
+    "geoid": "QA",
+    "country_code": "QAT",
+    "pop_data_2018": 2781677.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -73511,6 +75205,17 @@
     "geoid": "QA",
     "country_code": "QAT",
     "pop_data_2018": 2781677.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 430,
+    "deaths": 8,
+    "countries_territories": "Romania",
+    "geoid": "RO",
+    "country_code": "ROU",
+    "pop_data_2018": 19473936.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -74546,6 +76251,17 @@
     "country_code": "ROU",
     "pop_data_2018": 19473936.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 582,
+    "deaths": 9,
+    "countries_territories": "Russia",
+    "geoid": "RU",
+    "country_code": "RUS",
+    "pop_data_2018": 144478050.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -75547,6 +77263,17 @@
     "country_code": "RUS",
     "pop_data_2018": 144478050.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 13,
+    "deaths": 0,
+    "countries_territories": "Rwanda",
+    "geoid": "RW",
+    "country_code": "RWA",
+    "pop_data_2018": 12301939.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -75789,6 +77516,17 @@
     "country_code": "",
     "pop_data_2018": ""
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Saint_Kitts_and_Nevis",
+    "geoid": "KN",
+    "country_code": "KNA",
+    "pop_data_2018": 52441.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -75898,6 +77636,17 @@
     "geoid": "KN",
     "country_code": "KNA",
     "pop_data_2018": 52441.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Saint_Lucia",
+    "geoid": "LC",
+    "country_code": "LCA",
+    "pop_data_2018": 181889.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -76130,6 +77879,17 @@
     "country_code": "LCA",
     "pop_data_2018": 181889.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Saint_Vincent_and_the_Grenadines",
+    "geoid": "VC",
+    "country_code": "VCT",
+    "pop_data_2018": 110210.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -76261,6 +78021,17 @@
     "geoid": "VC",
     "country_code": "VCT",
     "pop_data_2018": 110210.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 8,
+    "deaths": 0,
+    "countries_territories": "San_Marino",
+    "geoid": "SM",
+    "country_code": "SMR",
+    "pop_data_2018": 33785.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -77307,6 +79078,17 @@
     "country_code": "SMR",
     "pop_data_2018": 33785.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 294,
+    "deaths": 8,
+    "countries_territories": "Saudi_Arabia",
+    "geoid": "SA",
+    "country_code": "SAU",
+    "pop_data_2018": 33699947.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -77637,6 +79419,17 @@
     "country_code": "SAU",
     "pop_data_2018": 33699947.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 12,
+    "deaths": 1,
+    "countries_territories": "Senegal",
+    "geoid": "SN",
+    "country_code": "SEN",
+    "pop_data_2018": 15854360.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -77922,6 +79715,17 @@
     "geoid": "SN",
     "country_code": "SEN",
     "pop_data_2018": 15854360.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 148,
+    "deaths": 5,
+    "countries_territories": "Serbia",
+    "geoid": "RS",
+    "country_code": "SRB",
+    "pop_data_2018": 6982084.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -78209,6 +80013,17 @@
     "country_code": "SRB",
     "pop_data_2018": 6982084.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Seychelles",
+    "geoid": "SC",
+    "country_code": "SYC",
+    "pop_data_2018": 96762.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -78440,6 +80255,17 @@
     "country_code": "SYC",
     "pop_data_2018": 96762.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 0,
+    "countries_territories": "Sierra_Leone",
+    "geoid": "SL",
+    "country_code": "SLE",
+    "pop_data_2018": 7650154.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -78483,6 +80309,17 @@
     "geoid": "SL",
     "country_code": "SLE",
     "pop_data_2018": 7650154.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 75,
+    "deaths": 1,
+    "countries_territories": "Singapore",
+    "geoid": "SG",
+    "country_code": "SGP",
+    "pop_data_2018": 5638676.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -79540,6 +81377,17 @@
     "country_code": "SGP",
     "pop_data_2018": 5638676.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Sint_Maarten",
+    "geoid": "SX",
+    "country_code": "SXM",
+    "pop_data_2018": 41486.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -79649,6 +81497,17 @@
     "geoid": "SX",
     "country_code": "SXM",
     "pop_data_2018": 41486.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 21,
+    "deaths": 0,
+    "countries_territories": "Slovakia",
+    "geoid": "SK",
+    "country_code": "SVK",
+    "pop_data_2018": 5447011.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -79957,6 +81816,17 @@
     "geoid": "SK",
     "country_code": "SVK",
     "pop_data_2018": 5447011.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 43,
+    "deaths": 2,
+    "countries_territories": "Slovenia",
+    "geoid": "SI",
+    "country_code": "SVN",
+    "pop_data_2018": 2067372.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -80288,6 +82158,17 @@
     "country_code": "SVN",
     "pop_data_2018": 2067372.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 2,
+    "deaths": 0,
+    "countries_territories": "Somalia",
+    "geoid": "SO",
+    "country_code": "SOM",
+    "pop_data_2018": 15008154.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -80496,6 +82377,17 @@
     "geoid": "SO",
     "country_code": "SOM",
     "pop_data_2018": 15008154.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 80,
+    "deaths": 2,
+    "countries_territories": "South_Africa",
+    "geoid": "ZA",
+    "country_code": "ZAF",
+    "pop_data_2018": 57779622.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -80804,6 +82696,17 @@
     "geoid": "ZA",
     "country_code": "ZAF",
     "pop_data_2018": 57779622.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 81,
+    "deaths": 6,
+    "countries_territories": "South_Korea",
+    "geoid": "KR",
+    "country_code": "KOR",
+    "pop_data_2018": 51635256.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -81861,6 +83764,17 @@
     "country_code": "KOR",
     "pop_data_2018": 51635256.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 7026,
+    "deaths": 809,
+    "countries_territories": "Spain",
+    "geoid": "ES",
+    "country_code": "ESP",
+    "pop_data_2018": 46723749.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -82917,6 +84831,17 @@
     "country_code": "ESP",
     "pop_data_2018": 46723749.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 8,
+    "deaths": 1,
+    "countries_territories": "Sri_Lanka",
+    "geoid": "LK",
+    "country_code": "LKA",
+    "pop_data_2018": 21670000.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -83874,6 +85799,17 @@
     "country_code": "LKA",
     "pop_data_2018": 21670000.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 3,
+    "deaths": 0,
+    "countries_territories": "Sudan",
+    "geoid": "SD",
+    "country_code": "SDN",
+    "pop_data_2018": 41801533.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -84116,6 +86052,17 @@
     "country_code": "SDN",
     "pop_data_2018": 41801533.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Suriname",
+    "geoid": "SR",
+    "country_code": "SUR",
+    "pop_data_2018": 575991.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -84291,6 +86238,17 @@
     "geoid": "SR",
     "country_code": "SUR",
     "pop_data_2018": 575991.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 365,
+    "deaths": 40,
+    "countries_territories": "Sweden",
+    "geoid": "SE",
+    "country_code": "SWE",
+    "pop_data_2018": 10183175.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -85348,6 +87306,17 @@
     "country_code": "SWE",
     "pop_data_2018": 10183175.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 783,
+    "deaths": 59,
+    "countries_territories": "Switzerland",
+    "geoid": "CH",
+    "country_code": "CHE",
+    "pop_data_2018": 8516543.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -86404,12 +88373,23 @@
     "country_code": "CHE",
     "pop_data_2018": 8516543.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Syria",
+    "geoid": "SY",
+    "country_code": "SYR",
+    "pop_data_2018": 16906283.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
     "year": 2020,
     "cases": 0,
-    "deaths": 1,
+    "deaths": 0,
     "countries_territories": "Syria",
     "geoid": "SY",
     "country_code": "SYR",
@@ -86546,6 +88526,17 @@
     "geoid": "SY",
     "country_code": "SYR",
     "pop_data_2018": 16906283.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 8,
+    "deaths": 0,
+    "countries_territories": "Taiwan",
+    "geoid": "TW",
+    "country_code": "TWN",
+    "pop_data_2018": 23780452.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -87581,6 +89572,17 @@
     "country_code": "TWN",
     "pop_data_2018": 23780452.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 191,
+    "deaths": 4,
+    "countries_territories": "Thailand",
+    "geoid": "TH",
+    "country_code": "THA",
+    "pop_data_2018": 69428524.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -88560,6 +90562,17 @@
     "country_code": "THA",
     "pop_data_2018": 69428524.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Timor_Leste",
+    "geoid": "TL",
+    "country_code": "TLS",
+    "pop_data_2018": 1267972.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -88713,6 +90726,17 @@
     "geoid": "TL",
     "country_code": "TLS",
     "pop_data_2018": 1267972.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Togo",
+    "geoid": "TG",
+    "country_code": "TGO",
+    "pop_data_2018": 7889094.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -88955,6 +90979,17 @@
     "geoid": "TG",
     "country_code": "TGO",
     "pop_data_2018": 7889094.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 3,
+    "deaths": 0,
+    "countries_territories": "Trinidad_and_Tobago",
+    "geoid": "TT",
+    "country_code": "TTO",
+    "pop_data_2018": 1389858.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -89208,6 +91243,17 @@
     "geoid": "TT",
     "country_code": "TTO",
     "pop_data_2018": 1389858.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 40,
+    "deaths": 5,
+    "countries_territories": "Tunisia",
+    "geoid": "TN",
+    "country_code": "TUN",
+    "pop_data_2018": 11565204.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -89506,6 +91552,17 @@
     "country_code": "TUN",
     "pop_data_2018": 11565204.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 3013,
+    "deaths": 76,
+    "countries_territories": "Turkey",
+    "geoid": "TR",
+    "country_code": "TUR",
+    "pop_data_2018": 82319724.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -89748,6 +91805,17 @@
     "country_code": "TUR",
     "pop_data_2018": 82319724.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Turks_and_Caicos_islands",
+    "geoid": "TC",
+    "country_code": "TCA",
+    "pop_data_2018": 31458.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -89868,6 +91936,17 @@
     "geoid": "TC",
     "country_code": "TCA",
     "pop_data_2018": 31458.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Uganda",
+    "geoid": "UG",
+    "country_code": "UGA",
+    "pop_data_2018": 42723139.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -90022,6 +92101,17 @@
     "geoid": "UG",
     "country_code": "UGA",
     "pop_data_2018": 42723139.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 109,
+    "deaths": 5,
+    "countries_territories": "Ukraine",
+    "geoid": "UA",
+    "country_code": "UKR",
+    "pop_data_2018": 44622516.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -90264,6 +92354,17 @@
     "geoid": "UA",
     "country_code": "UKR",
     "pop_data_2018": 44622516.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 481,
+    "deaths": 2,
+    "countries_territories": "United_Arab_Emirates",
+    "geoid": "AE",
+    "country_code": "ARE",
+    "pop_data_2018": 9630959.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -91254,6 +93355,17 @@
     "geoid": "AE",
     "country_code": "ARE",
     "pop_data_2018": 9630959.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 3735,
+    "deaths": 708,
+    "countries_territories": "United_Kingdom",
+    "geoid": "UK",
+    "country_code": "GBR",
+    "pop_data_2018": 66488991.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -92311,6 +94423,17 @@
     "country_code": "GBR",
     "pop_data_2018": 66488991.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "United_Republic_of_Tanzania",
+    "geoid": "TZ",
+    "country_code": "TZA",
+    "pop_data_2018": 56318348.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -92519,6 +94642,17 @@
     "geoid": "TZ",
     "country_code": "TZA",
     "pop_data_2018": 56318348.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 34272,
+    "deaths": 1344,
+    "countries_territories": "United_States_of_America",
+    "geoid": "US",
+    "country_code": "USA",
+    "pop_data_2018": 327167434.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -93576,6 +95710,17 @@
     "country_code": "USA",
     "pop_data_2018": 327167434.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "United_States_Virgin_Islands",
+    "geoid": "VI",
+    "country_code": "VIR",
+    "pop_data_2018": 106977.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -93696,6 +95841,17 @@
     "geoid": "VI",
     "country_code": "VIR",
     "pop_data_2018": 106977.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 14,
+    "deaths": 1,
+    "countries_territories": "Uruguay",
+    "geoid": "UY",
+    "country_code": "URY",
+    "pop_data_2018": 3449299.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -93928,6 +96084,17 @@
     "country_code": "URY",
     "pop_data_2018": 3449299.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 39,
+    "deaths": 0,
+    "countries_territories": "Uzbekistan",
+    "geoid": "UZ",
+    "country_code": "UZB",
+    "pop_data_2018": 32955400.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -94147,6 +96314,17 @@
     "geoid": "UZ",
     "country_code": "UZB",
     "pop_data_2018": 32955400.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 2,
+    "countries_territories": "Venezuela",
+    "geoid": "VE",
+    "country_code": "VEN",
+    "pop_data_2018": 28870195.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -94378,6 +96556,17 @@
     "geoid": "VE",
     "country_code": "VEN",
     "pop_data_2018": 28870195.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 1,
+    "deaths": 0,
+    "countries_territories": "Vietnam",
+    "geoid": "VN",
+    "country_code": "VNM",
+    "pop_data_2018": 95540395.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
@@ -95391,6 +97580,17 @@
     "country_code": "VNM",
     "pop_data_2018": 95540395.0
 },{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Zambia",
+    "geoid": "ZM",
+    "country_code": "ZMB",
+    "pop_data_2018": 17351822.0
+},{
     "date_report": "2020-04-04",
     "day": 4,
     "month": 4,
@@ -95577,6 +97777,17 @@
     "geoid": "ZM",
     "country_code": "ZMB",
     "pop_data_2018": 17351822.0
+},{
+    "date_report": "2020-04-05",
+    "day": 5,
+    "month": 4,
+    "year": 2020,
+    "cases": 0,
+    "deaths": 0,
+    "countries_territories": "Zimbabwe",
+    "geoid": "ZW",
+    "country_code": "ZWE",
+    "pop_data_2018": 14439018.0
 },{
     "date_report": "2020-04-04",
     "day": 4,
